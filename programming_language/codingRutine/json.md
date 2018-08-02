@@ -5,6 +5,7 @@
 ### php
 
 ```php
+<?php
 $obj = StdClass();
 $obj.name = "ada";
 $obj.age = 17;

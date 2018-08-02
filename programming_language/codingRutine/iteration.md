@@ -5,6 +5,7 @@
 ### php
 
 ```php
+<?php
 $arr = ["name": "ada", "age": 17];
 foreach ($arr as $k => $v) {
     echo $k . ":" . $v;
